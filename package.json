@@ -1,0 +1,15 @@
+{
+  "name": "@singseq/qabalah-core",
+  "version": "0.1.0",
+  "type": "module",
+  "license": "GPL-3.0-only",
+  "description": "希伯来字母与数术",
+  "scripts": {
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3",
+    "vitest": "^3.2.4"
+  }
+}
